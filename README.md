@@ -1,14 +1,15 @@
-### Tutorial on how to run the Java Preliminaries
-Find the directory of that package
+# Java Programming Exercises
 
-[Step 1: Find the directory]
-- cd C:\Users\Example\Documents\Programs\Java\src
+This repository contains various Java programming exercises. Below is a step-by-step tutorial on how to run the Java Preliminaries exercises on your local machine.
 
-[Step 2: Compile]
-- javac Preliminaries\Number.java
+---
 
-[Step 3:Run the program using the CMD or Powershell command]
-- java Preliminaries.Number
+### Tutorial on How to Run the Java Preliminaries
 
+Follow these steps to clone and run the Java Preliminaries program:
 
-
+**Step 1: Clone the Repository**
+- Open your terminal (CMD or PowerShell).
+- Run the following command to clone the repository:
+  ```bash
+  git clone https://github.com/Jundel-Malazarte29/java-programming-exercises.git
