@@ -1,3 +1,3 @@
 # Java Exercise Programs
 
-- [Java]
+- [Java] - Practice
