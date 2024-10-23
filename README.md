@@ -1,9 +1,4 @@
-# Java Exercise Programs
-
-<<<<<<< HEAD
-- [Java]
-
-# Tutorial on how to run the Java Preliminaries
+### Tutorial on how to run the Java Preliminaries
 Find the directory of that package
 
 [Step 1: Find the directory]
@@ -14,6 +9,6 @@ Find the directory of that package
 
 [Step 3:Run the program using the CMD or Powershell command]
 - java Preliminaries.Number
-=======
-- [Java] - Practice
->>>>>>> 698616b079f5f3a0063ea36ac31252512ae56c01
+
+
+
