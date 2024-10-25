@@ -40,13 +40,17 @@ import java.util.Scanner; //#include<stdio.h>
             // int sum = x + y;
             // System.out.printf("The sum of %d and %d is %d.",x,y,sum);
 
+            // Calling the object 
+            A objA = new A();
+            objA.Hello();
+
         } //end of method
 }//end of class
 
 class A {
     // Funtion here
     void Hello () {
-        System.out.println("Hello, World!!!");
+        System.out.println("Hello, Thanks for using this program!");
     }
     
     public A() {
