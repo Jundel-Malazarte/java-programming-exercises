@@ -27,15 +27,43 @@ import java.util.Scanner; //#include<stdio.h>
                 } catch(Exception e) {
                     System.out.println("Invalid... input only integers");
                 }
+
+                
+            //  A objA = new A(); //object of class A
+            // B objB = new B(); //object of class B
+
+            // objA.Hello();
+            // objB.Test();
+            
+            // int x = 10;
+            // int y = 20;
+            // int sum = x + y;
+            // System.out.printf("The sum of %d and %d is %d.",x,y,sum);
+
         } //end of method
 }//end of class
 
 class A {
-    // Function here !
+    // Funtion here
+    void Hello () {
+        System.out.println("Hello, World!!!");
+    }
+    
+    public A() {
+        Hello(); // Call the Hello() method from the constructor
+    }
 }
 
 class B {
     // Funtion here
+    void Test () {
+        System.out.println("Hello, This is a test!!!");
+    }
+
+    public B() {
+        Test(); // Call the Test() method from the constructor
+    }
+
 }
 
 //Java Preliminaries
