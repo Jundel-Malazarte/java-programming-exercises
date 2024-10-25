@@ -44,6 +44,10 @@ import java.util.Scanner; //#include<stdio.h>
             A objA = new A();
             objA.Hello();
 
+            // calling out the 2nd object
+            B objB = new B();
+            objB.GoodBye();
+
         } //end of method
 }//end of class
 
