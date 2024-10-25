@@ -60,12 +60,12 @@ class A {
 
 class B {
     // Funtion here
-    void Test () {
-        System.out.println("Hello, This is a test!!!");
+    void GoodBye () {
+        System.out.println("GoodBye , User!!!");
     }
 
     public B() {
-        Test(); // Call the Test() method from the constructor
+        GoodBye(); // Call the Test() method from the constructor
     }
 
 }
